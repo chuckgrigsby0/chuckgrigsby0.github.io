@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "googlee7715bf3f72e1a05.html"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -86,7 +86,7 @@ author:
   location         : "University of Florida"
   employer         : "Food and Resource Economics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Xq4QmnwAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
