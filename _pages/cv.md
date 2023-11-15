@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="{{ site.baseurl }}/files/grigsbycalage_cv.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/cv/grigsbycalage_cv.pdf" width="600" height="700" type='application/pdf'> 
