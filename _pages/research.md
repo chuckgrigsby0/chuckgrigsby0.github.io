@@ -7,15 +7,23 @@ author_profile: true
 
 ## Working Papers
 
-My dissertation focused on the economic implications and impacts of dollar store expansion in the U.S. food retail market. Since the early 2000s, dollar stores have increasingly diversified their food product offerings. Advocates and policymakers assert that dollar stores target low-income, under-served communities and negatively affect the local economy and consumer health by driving the exit of conventional grocery stores and by selling less nutritious food. Numerous city councils across the United States have imposed restrictions on dollar store entry, including bans on new locations, to promote the establishment of healthy food stores. My research studies the growth of dollar stores across the United States over a twenty-year period from 2000 to 2020, and investigates their impacts on household food access and retail competition. Using NielsenIQ TDLinx retail store location data from 2000 to 2020, I plot the share of census tract households whose nearest retail food store is a dollar store. 
+My dissertation focused on the economic implications and impacts of dollar store expansion in the U.S. food retail market. Since the early 2000s, dollar stores have increasingly diversified their food product offerings. Advocates and policymakers assert that dollar stores target low-income, under-served communities and negatively affect the local economy and consumer health by driving the exit of conventional grocery stores and by selling less nutritious food. Numerous city councils across the United States have imposed restrictions on dollar store entry, including bans on new locations, to promote the establishment of healthy food stores. My research studies the growth of dollar stores across the United States over a twenty-year period from 2000 to 2020, and investigates their impacts on household food access and retail competition. 
 
-![](/images/figure_share_of_tracts_nearest_to_ds.png)
+To better understand their growth over space and time, I plot the share of census tract households whose nearest retail food store is a dollar store using NielsenIQ TDLinx retail store location data from 2000 to 2020. Dollar stores have particularly grown in the Northeast and West regions relative to their store presence in the early 2000s. However, a larger share of census-tract households' nearest store is a dollar store in the South and Midwest, the regions in which the dollar store format originated. 
 
-Below, are two of my working papers from this research.
+<div style="text-align: center;">
+<img src="/images/figure_share_of_tracts_nearest_to_ds.png" alt="Share of Census Tracts whose Nearest Store is a Dollar Store" width="500">
+</div>
+
+My research of dollar stores relates to food retail markets, the food environment, community economic development, and socioeconomic inequality. Below are two of my working papers from this research that assess the dynamic growth patterns of dollar stores from 2000 to 2020 and the impact of dollar store entry on block-group household food access.
 
 **Grigsby, C.**, Mullally, C., Volpe, R., & Stevens, A. (2022). [Predicting Dollar Store Entries and Densities Over Space and Time - An Application of Machine Learning](/files/papers/predicting_dollar_store_entries_and_densities_over_space_and_time.pdf){: .btn--research}.
 
 **Grigsby, C.**, Mullally, C., Volpe, R., Kropp, J., & Stevens, A. (2023). [The Impact of Dollar Stores on Food Access: A Machine Learning Approach to Predict Counterfactuals](/files/papers/dollar_stores_and_food_access.pdf){: .btn--research}.
+
+--- 
+
+I also have research expertise in the area of local and regional food systems through my previous research and extension work. 
 
 ## Publications in Refereed Journals
 
@@ -23,8 +31,6 @@ Below, are two of my working papers from this research.
 
 
 ## Refereed Extension Publications 
-
-### 2017
 
 **Grigsby, C.** & Bruch Leffew, M. (2017). [Meat Product Labeling Guidance for Direct Farm Marketers](https://extension.tennessee.edu/publications/Documents/PB1861.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, PB 1861.
 
@@ -36,19 +42,13 @@ Below, are two of my working papers from this research.
 
 ## Other Peer-Reviewed Extension Publications
 
-### 2018
-
 **Grigsby, C.**, Bruch Leffew, M., & Pepper, H. (2018). [Weights and Measures Considerations for Direct Farm Marketers in Tennessee](https://extension.tennessee.edu/publications/Documents/D56.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, D 56.
-
-### 2017
 
 **Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of LocalHarvest's Store Catalog](https://extension.tennessee.edu/publications/Documents/D49.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, D 49.
 
 **Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of Small Farm Central's Site Builder](https://extension.tennessee.edu/publications/Documents/D48.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, D 48.
 
 **Grigsby, C.** (2017). [Grass-Fed Beef Producer Experiences: Background Information on Featured Farms](https://utia.tennessee.edu/cpa/wp-content/uploads/sites/106/2020/10/CPA282.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, Info Sheet #282.
-
-### 2015
 
 Holland, R. & **Grigsby, C.** (2015). [Meat Sales from Other Business Locations: Implications for Farm-Based Retail Meat Permit Holders and Retail Food Store Permit Holders](https://utia.tennessee.edu/cpa/wp-content/uploads/sites/106/2020/10/CPA241.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, Info Sheet #241.
 
