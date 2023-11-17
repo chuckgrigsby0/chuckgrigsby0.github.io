@@ -34,21 +34,21 @@ I also have research expertise in the area of local and regional food systems th
 
 ## Refereed Extension Publications 
 
-**Grigsby, C.** & Bruch Leffew, M. (2017). [Meat Product Labeling Guidance for Direct Farm Marketers](https://extension.tennessee.edu/publications/Documents/PB1861.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, PB 1861.
+**Grigsby, C.** & Bruch Leffew, M. (2017). [Meat Product Labeling Guidance for Direct Farm Marketers](https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2023/10/PB1861.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, PB 1861.
 
-**Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of Locallygrown.net and Case Studies of Online Markets in Tennessee](https://extension.tennessee.edu/publications/Documents/PB1857.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, PB 1857.
+**Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of Locallygrown.net and Case Studies of Online Markets in Tennessee](https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2023/10/PB1857.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, PB 1857.
 
-**Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of CSA E-commerce Software and Case Studies of CSA Operations in Tennessee](https://extension.tennessee.edu/publications/Documents/PB1858.pdf), Center for Profitable Agriculture, The University of Tennessee Institute of Agriculture. PB 1858.
+**Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of CSA E-commerce Software and Case Studies of CSA Operations in Tennessee](https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2023/10/PB1858.pdf), Center for Profitable Agriculture, The University of Tennessee Institute of Agriculture. PB 1858.
 
-**Grigsby, C.** (2017). [Marketing Corn to Local Distilleries, Mills, Retail and Wholesale Customers](https://extension.tennessee.edu/publications/Documents/PB1852.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, PB 1852.
+**Grigsby, C.** (2017). [Marketing Corn to Local Distilleries, Mills, Retail and Wholesale Customers](https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2023/10/PB1852.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, PB 1852.
 
 ## Other Peer-Reviewed Extension Publications
 
-**Grigsby, C.**, Bruch Leffew, M., & Pepper, H. (2018). [Weights and Measures Considerations for Direct Farm Marketers in Tennessee](https://extension.tennessee.edu/publications/Documents/D56.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, D 56.
+**Grigsby, C.**, Bruch Leffew, M., & Pepper, H. (2018). [Weights and Measures Considerations for Direct Farm Marketers in Tennessee](https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2023/10/D56.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, D 56.
 
-**Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of LocalHarvest's Store Catalog](https://extension.tennessee.edu/publications/Documents/D49.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, D 49.
+**Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of LocalHarvest's Store Catalog](https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2023/10/D49.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, D 49.
 
-**Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of Small Farm Central's Site Builder](https://extension.tennessee.edu/publications/Documents/D48.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, D 48.
+**Grigsby, C.** & Bruch Leffew, M. (2017). [E-commerce for Direct Farm Marketers: An Overview of Small Farm Central's Site Builder](https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2023/10/D48.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, D 48.
 
 **Grigsby, C.** (2017). [Grass-Fed Beef Producer Experiences: Background Information on Featured Farms](https://utia.tennessee.edu/cpa/wp-content/uploads/sites/106/2020/10/CPA282.pdf). The University of Tennessee Institute of Agriculture, Center for Profitable Agriculture, Info Sheet #282.
 
