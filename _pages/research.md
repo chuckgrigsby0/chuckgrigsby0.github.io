@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Grigsby, C.**, Mullally, C., Volpe, R., Kropp, J., & Stevens, A. (2023). [The Impact of Dollar Stores on Food Access: A Machine Learning Approach to Predict Counterfactuals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822647){: .btn--research}.
+**Grigsby, C.**, Mullally, C., Volpe, R., Kropp, J., & Stevens, A. (2024). [The Varying Effects of Dollar Stores on Food Access: A Machine Learning Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822647){: .btn--research}.
 
 ## Working Papers
 
