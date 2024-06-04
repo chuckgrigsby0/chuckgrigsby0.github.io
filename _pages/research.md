@@ -5,11 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Job Market Paper
+## Working Papers
 
 **Grigsby, C.**, Mullally, C., Volpe, R., Kropp, J., & Stevens, A. (2024). [The Varying Effects of Dollar Stores on Food Access: A Machine Learning Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4822647){: .btn--research}.
-
-## Working Papers
 
 **Grigsby, C.**, Mullally, C., Volpe, R., & Stevens, A. (2022). [Assessing the Conventional Wisdom on Dollar Store Locations Through Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4840403){: .btn--research}.
 
