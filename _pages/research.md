@@ -11,7 +11,7 @@ author_profile: true
 
 ## Working Papers
 
-**Grigsby, C.**, Mullally, C., Volpe, R., & Stevens, A. (2022). [Predicting Dollar Store Entries and Densities Over Space and Time - An Application of Machine Learning](/files/papers/predicting_dollar_store_entries_and_densities_over_space_and_time.pdf){: .btn--research}.
+**Grigsby, C.**, Mullally, C., Volpe, R., & Stevens, A. (2022). [Assessing the Conventional Wisdom on Dollar Store Locations Through Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4840403){: .btn--research}.
 
 --- 
 
